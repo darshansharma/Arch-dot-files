@@ -1,0 +1,25 @@
+[global_config]
+  focus = system
+  handle_size = 0
+  homogeneous_tabbar = False
+  scroll_tabbar = True
+  title_font = Serif 9
+  title_use_system_font = False
+[keybindings]
+  full_screen = <Ctrl><Shift>F11
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    cursor_color = "#FFFFFF"
+    custom_command = 'echo \"foo#bar\"'
+    font = Serif 11
+    foreground_color = "#ffffff"
+    use_system_font = False
