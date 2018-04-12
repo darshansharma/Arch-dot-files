@@ -1,0 +1,20 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "shared/popover/images/okta-32x32.png",
+      "default_popup": "shared/popover/popover.html"
+   },
+   "description": "Work outside the perimeter",
+   "icons": {
+      "128": "img/chrome-store-app-icon-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArZXFqnnBnT3aleYaso3F4SidXxBO5/NHkb2O3AvfkrPhBqYhkz2f84tnPjyDWdcyg0r9RB4lu6eIYt/RaxSglLi9WzSFbXAWB6vyiS/OYcurXr8x1EopK8Vjfdkt4gvUrQjylnUCTBFneVtBUXB3XHTV57p/KOlxJUmvI3q7w3dkRQEr/FYhKCT/OcJuOJdCuNMIVBrM/OLrZsym/HrruKcxkaNdC5e5Py4s8LX11Ut2APx8ttxMTyxE1QaXSuuwEjB53/6RNoR8fS3ysJQ6H+dw62cK51QG1nrKQQllemvmUYF9LRC3ufC6MxDgWv46Z8PawrOHcQCQDPhjqx14vQIDAQAB",
+   "manifest_version": 2,
+   "name": "Okta Secure Web Authentication Plug-in",
+   "permissions": [ "tabs", "cookies", "https://*/", "http://*/", "management", "storage", "unlimitedStorage", "webRequest", "webRequestBlocking", "webNavigation" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.17.0",
+   "web_accessible_resources": [ "getFrameId" ]
+}

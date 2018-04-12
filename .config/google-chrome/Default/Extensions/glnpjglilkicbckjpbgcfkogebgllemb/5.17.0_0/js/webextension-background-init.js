@@ -1,0 +1,1 @@
+Okta.WebExtensionBackgroundInit=function(a){var t=Okta.sessionStorage,e=Okta.localStorage,k=Okta.jqueryAjax($okta.ajax),n=Okta.Request(k,t,e),o=Okta.WebExtension(t,e,n,a),r=Okta.startBackgroundScript;r(o,t,e,n)};

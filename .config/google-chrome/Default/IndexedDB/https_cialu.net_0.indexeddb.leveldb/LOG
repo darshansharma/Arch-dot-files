@@ -1,0 +1,9 @@
+2018/04/07-16:55:43.422 3668 Reusing MANIFEST /home/darshan/.config/google-chrome/Default/IndexedDB/https_cialu.net_0.indexeddb.leveldb/MANIFEST-000001
+2018/04/07-16:55:44.197 3670 Current memtable full; waiting...
+2018/04/07-16:55:44.198 3727 Level-0 table #5: started
+2018/04/07-16:55:44.201 3727 Level-0 table #5: 432 bytes OK
+2018/04/07-16:55:44.207 3727 Delete type=0 #3
+2018/04/07-16:55:44.207 3727 Level-0 table #7: started
+2018/04/07-16:55:44.207 3727 Level-0 table #7: 0 bytes OK
+2018/04/07-16:55:44.211 3727 Delete type=0 #4
+2018/04/07-16:55:44.211 3727 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

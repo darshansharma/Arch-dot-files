@@ -1,0 +1,26 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_title": "marker.to - highlight and share"
+   },
+   "content_scripts": [ {
+      "css": [ "chrome.css" ],
+      "js": [ "jquery.min.js", "myscript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDqFzeDZFPY7bhFKLPJoPfLYrjYLzymD3MRc93eoN1scMiVMSFXQuvIkcs0SZusz2ovH06WDyyTN289fS+8NFgj1SvijhY4PIGRJCVIJu2IqszvxHFND3NagHxL2opl3kDjNVAsx5bYhynLtRUPk+EA/e4mg97nDjFUZuFmGGjqYQIDAQAB",
+   "manifest_version": 2,
+   "name": "Yellow highlighter pen for web",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "contextMenus", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.2"
+}

@@ -1,0 +1,12 @@
+2018/04/12-08:54:18.361 1598 Reusing MANIFEST /home/darshan/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/04/12-08:54:18.362 1598 Recovering log #21
+2018/04/12-08:54:18.393 1598 Reusing old log /home/darshan/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000021.log 
+2018/04/12-08:55:31.381 1704 Level-0 table #26: started
+2018/04/12-08:55:31.399 1704 Level-0 table #26: 1249849 bytes OK
+2018/04/12-08:55:31.406 1704 Delete type=0 #21
+2018/04/12-08:55:35.434 1704 Compacting 1@1 + 1@2 files
+2018/04/12-08:55:35.488 1704 Generated table #27@1: 2024 keys, 1196451 bytes
+2018/04/12-08:55:35.488 1704 Compacted 1@1 + 1@2 files => 1196451 bytes
+2018/04/12-08:55:35.491 1704 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/04/12-08:55:35.491 1704 Delete type=2 #23
+2018/04/12-08:55:35.492 1704 Delete type=2 #26

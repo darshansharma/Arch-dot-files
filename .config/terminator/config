@@ -1,9 +1,11 @@
 [global_config]
+  borderless = True
   focus = system
   handle_size = 0
   homogeneous_tabbar = False
   scroll_tabbar = True
   title_font = Serif 9
+  title_hide_sizetext = True
   title_use_system_font = False
 [keybindings]
   full_screen = <Ctrl><Shift>F11
@@ -18,8 +20,11 @@
 [plugins]
 [profiles]
   [[default]]
+    background_darkness = 0.41
+    background_type = transparent
     cursor_color = "#FFFFFF"
     custom_command = 'echo \"foo#bar\"'
-    font = Serif 11
+    font = UbuntuMono Nerd Font 13
     foreground_color = "#ffffff"
+    show_titlebar = False
     use_system_font = False

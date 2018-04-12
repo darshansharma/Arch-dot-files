@@ -1,0 +1,1 @@
+Okta.BrowserUtil=function(){var t={},n=/Edge\/\d+/i;t.isEdge=function(){return Okta.window&&Okta.window.navigator&&Okta.window.navigator.userAgent&&Okta.window.navigator.userAgent.match(n)};return t}();

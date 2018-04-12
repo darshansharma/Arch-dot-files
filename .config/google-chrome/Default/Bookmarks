@@ -1,0 +1,1644 @@
+{
+   "checksum": "b8521bd8b49e9120aac901893c5a0156",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13077987289682613",
+            "id": "56",
+            "name": "Bookmarks",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         }, {
+            "children": [ {
+               "date_added": "13132828213239911",
+               "id": "186",
+               "meta_info": {
+                  "last_visited_desktop": "13166037436435712"
+               },
+               "name": "IAmA",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.reddit.com/r/IAmA/"
+            }, {
+               "date_added": "13124810472285569",
+               "id": "187",
+               "name": "Learning to Read x86 Assembly Language - Pat Shaughnessy",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language"
+            } ],
+            "date_added": "13167335206844204",
+            "date_modified": "13167335206844204",
+            "id": "57",
+            "name": "Assembly",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13154654730624773",
+               "id": "179",
+               "meta_info": {
+                  "last_visited_desktop": "13158576289749176"
+               },
+               "name": "Learning Features for Offline Handwritten Signature Verification using Deep Convolutional Neural Network - 其它论文 - 道客巴巴",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.doc88.com/p-3008680498318.html"
+            }, {
+               "date_added": "13151131441091026",
+               "id": "180",
+               "meta_info": {
+                  "last_visited_desktop": "13154714317691370"
+               },
+               "name": "udacity-deep-learning/1_notmnist.ipynb at master · rndbrtrnd/udacity-deep-learning",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/rndbrtrnd/udacity-deep-learning/blob/master/1_notmnist.ipynb"
+            }, {
+               "date_added": "13154655831340418",
+               "id": "181",
+               "meta_info": {
+                  "last_visited_desktop": "13154655831340933"
+               },
+               "name": "Tensorflow Tutorial 2: image classifier using convolutional neural network – CV-Tricks.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/"
+            }, {
+               "date_added": "13154736270542156",
+               "id": "182",
+               "meta_info": {
+                  "last_visited_desktop": "13154736335227116"
+               },
+               "name": "Building a Neural Network from Scratch in Python and in TensorFlow - nick becker",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://beckernick.github.io/neural-network-scratch/"
+            }, {
+               "date_added": "13154872181365967",
+               "id": "183",
+               "meta_info": {
+                  "last_visited_desktop": "13160655721672073"
+               },
+               "name": "python - TensorFlow: training on my own image - Stack Overflow",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/37340129/tensorflow-training-on-my-own-image"
+            }, {
+               "date_added": "13154910709286940",
+               "id": "184",
+               "meta_info": {
+                  "last_visited_desktop": "13154910709289423"
+               },
+               "name": "TensorFlow-Tutorials/02_Convolutional_Neural_Network.ipynb at master · Hvass-Labs/TensorFlow-Tutorials",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb"
+            }, {
+               "date_added": "13155802101236052",
+               "id": "185",
+               "meta_info": {
+                  "last_visited_desktop": "13155802101238838"
+               },
+               "name": "mnist_cnn",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://localhost:8888/notebooks/MNIST%20using%20CNN/mnist_cnn.ipynb"
+            } ],
+            "date_added": "13167335206844333",
+            "date_modified": "13167335206844333",
+            "id": "58",
+            "name": "Neural Network",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13124812195416250",
+               "id": "165",
+               "name": "Good UNIX (History) books / material ? : unix",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unix/comments/339gdq/good_unix_history_books_material/"
+            }, {
+               "date_added": "13124861000379545",
+               "id": "166",
+               "name": "Unix by ritche.pdf",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.read.seas.harvard.edu/~kohler/class/aosref/ritchie84evolution.pdf"
+            }, {
+               "date_added": "13132770143785692",
+               "id": "167",
+               "name": "img",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://hrcdn.net/euler-project/project/images/p_173_square_laminas.gif"
+            }, {
+               "date_added": "13124861072747323",
+               "id": "168",
+               "name": "A Brief History of UNIX",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://web.archive.org/web/20001202171300/http://milieu.grads.vt.edu/unix_history.html"
+            }, {
+               "date_added": "13124896361021642",
+               "id": "169",
+               "meta_info": {
+                  "last_visited_desktop": "13167817571471530"
+               },
+               "name": "LFS Project Homepage",
+               "sync_transaction_version": "18",
+               "type": "url",
+               "url": "http://www.linuxfromscratch.org/lfs/"
+            }, {
+               "date_added": "13124899876766305",
+               "id": "170",
+               "meta_info": {
+                  "last_visited_desktop": "13160041636278488"
+               },
+               "name": "Creating and running a script",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html"
+            }, {
+               "date_added": "13125049194583810",
+               "id": "171",
+               "name": "The Linux Documentation Project",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://tldp.org/"
+            }, {
+               "date_added": "13132166568214433",
+               "id": "172",
+               "meta_info": {
+                  "last_visited_desktop": "13132166568214995"
+               },
+               "name": "The GNU C Library",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.delorie.com/gnu/docs/glibc/libc_352.html"
+            }, {
+               "date_added": "13132507777634247",
+               "id": "173",
+               "meta_info": {
+                  "last_visited_desktop": "13161943986173967"
+               },
+               "name": "Help:Reading - ArchWiki",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/Help:Reading#Installation_of_packages"
+            }, {
+               "date_added": "13136533287953551",
+               "id": "174",
+               "meta_info": {
+                  "last_visited_desktop": "13162464262832510"
+               },
+               "name": "Arch User Repository - ArchWiki",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/Arch_User_Repository"
+            }, {
+               "date_added": "13136533322284533",
+               "id": "175",
+               "meta_info": {
+                  "last_visited_desktop": "13137650842893703"
+               },
+               "name": "Bash/Prompt customization - ArchWiki",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/Bash/Prompt_customization"
+            }, {
+               "date_added": "13162111412370873",
+               "id": "176",
+               "meta_info": {
+                  "last_visited_desktop": "13167213488497936"
+               },
+               "name": "#!/bin/bash # Install Nerd Fonts __ScriptVersion=\"0.3\" # Default values for - Pastebin.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://pastebin.com/E45jT6PJ"
+            }, {
+               "date_added": "13162111412370873",
+               "id": "177",
+               "meta_info": {
+                  "last_visited_desktop": "13167213488497936"
+               },
+               "name": "#!/bin/bash # Install Nerd Fonts __ScriptVersion=\"0.3\" # Default values for - Pastebin.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://pastebin.com/E45jT6PJ"
+            }, {
+               "date_added": "13167212894165816",
+               "id": "178",
+               "meta_info": {
+                  "last_visited_desktop": "13167225762739710"
+               },
+               "name": "Ham Vocke",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/"
+            } ],
+            "date_added": "13167335206844462",
+            "date_modified": "13167817427785036",
+            "id": "59",
+            "name": "Linux",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13165471407367401",
+               "id": "163",
+               "meta_info": {
+                  "last_visited_desktop": "13167212189842018"
+               },
+               "name": "FreeBSD - Ideas List",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wiki.freebsd.org/SummerOfCodeIdeas#Improve_support_for_an_embedded_CPU.2Fboard"
+            }, {
+               "date_added": "13165603897091244",
+               "id": "164",
+               "meta_info": {
+                  "last_visited_desktop": "13166428467864286"
+               },
+               "name": "Chapter 1. What is pkgsrc?",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.netbsd.org/docs/pkgsrc/introduction.html"
+            } ],
+            "date_added": "13167335206844589",
+            "date_modified": "13167335206844589",
+            "id": "60",
+            "name": "GSOC",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13131562472740829",
+               "id": "161",
+               "name": "Essence of linear algebra - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"
+            }, {
+               "date_added": "13131562503848759",
+               "id": "162",
+               "name": "CS 229: Machine Learning",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://cs229.stanford.edu/"
+            } ],
+            "date_added": "13167335206844700",
+            "date_modified": "13167335206844700",
+            "id": "61",
+            "name": "machine learning",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13125441182177534",
+               "id": "156",
+               "name": "How to Create A New Python Module (and deploy it using pip) | DiscoverSDK Blog",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.discoversdk.com/blog/how-to-create-a-new-python-module"
+            }, {
+               "date_added": "13126160585487226",
+               "id": "157",
+               "meta_info": {
+                  "last_visited_desktop": "13155230073863254"
+               },
+               "name": "Awesome Python",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://awesome-python.com/"
+            }, {
+               "date_added": "13126893126944046",
+               "id": "158",
+               "name": "What was your favorite Python talk of 2016? : Python",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.reddit.com/r/Python/comments/5jou7z/what_was_your_favorite_python_talk_of_2016/"
+            }, {
+               "date_added": "13133155408320655",
+               "id": "159",
+               "meta_info": {
+                  "last_visited_desktop": "13133155408321447"
+               },
+               "name": "python-cheat-sheet/NumPy.md at master · JulianGaal/python-cheat-sheet",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/JulianGaal/python-cheat-sheet/blob/master/NumPy.md"
+            }, {
+               "date_added": "13133791891878995",
+               "id": "160",
+               "meta_info": {
+                  "last_visited_desktop": "13133806612510811"
+               },
+               "name": "__init__ : why we use it",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://docs.python.org/3/tutorial/modules.html#importing-from-a-package"
+            } ],
+            "date_added": "13167335206844837",
+            "date_modified": "13167335206844837",
+            "id": "62",
+            "name": "python",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13125982588496862",
+               "id": "152",
+               "name": "1. The World’s Smallest Django Project - Lightweight Django [Book]",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.safaribooksonline.com/library/view/lightweight-django/9781491946275/ch01.html"
+            }, {
+               "date_added": "13133791248048454",
+               "id": "153",
+               "meta_info": {
+                  "last_visited_desktop": "13134285087325011"
+               },
+               "name": "django-admin powers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://docs.djangoproject.com/en/1.10/ref/django-admin/"
+            }, {
+               "date_added": "13152599089962947",
+               "id": "154",
+               "meta_info": {
+                  "last_visited_desktop": "13153382048465047"
+               },
+               "name": "Loading Templates in Django - OverIQ.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://overiq.com/django/1.10/loading-templates-in-django"
+            }, {
+               "date_added": "13153059464171595",
+               "id": "155",
+               "meta_info": {
+                  "last_visited_desktop": "13153376754892105"
+               },
+               "name": "Build Your First Python and Django Application ― Scotch",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://scotch.io/tutorials/build-your-first-python-and-django-application"
+            } ],
+            "date_added": "13167335206844958",
+            "date_modified": "13167335206844958",
+            "id": "63",
+            "name": "Django",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13126028296480846",
+                  "id": "148",
+                  "meta_info": {
+                     "last_visited_desktop": "13167339074440714"
+                  },
+                  "name": "[XFCE] I really like my Arch Linux : unixporn",
+                  "sync_transaction_version": "8",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/unixporn/comments/5hw7l3/xfce_i_really_like_my_arch_linux/"
+               }, {
+                  "date_added": "13126990960251332",
+                  "id": "149",
+                  "name": "I like Unity but I hate Ubuntu, but Arch looks pretty good with Unity. : archlinux",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/archlinux/comments/5jth5w/i_like_unity_but_i_hate_ubuntu_but_arch_looks/"
+               }, {
+                  "date_added": "13162491134390128",
+                  "id": "150",
+                  "meta_info": {
+                     "last_visited_desktop": "13167331796871617"
+                  },
+                  "name": "Show Off Your Config · bhilburn/powerlevel9k Wiki",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config"
+               }, {
+                  "date_added": "13162590439063276",
+                  "id": "151",
+                  "meta_info": {
+                     "last_visited_desktop": "13167339093020806"
+                  },
+                  "name": "431",
+                  "sync_transaction_version": "10",
+                  "type": "url",
+                  "url": "https://wireless.wiki.kernel.org/en/users/drivers/brcm80211"
+               } ],
+               "date_added": "13167335206850322",
+               "date_modified": "13167397093810841",
+               "id": "145",
+               "name": "unixporn",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13126214294754480",
+               "id": "146",
+               "name": "redditer Statistics",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://ruadick.com/user/redditer/"
+            }, {
+               "date_added": "13153145270810987",
+               "id": "147",
+               "name": "Image result for cricket match wallpaper",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F31%2Ff8%2F9d%2F31f89d60f8c8dc5f5a926ac6e9bbd401--asia-cup-icc-cricket.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fabhinavdixit121%2Fmy-first-lovecricket%2F&docid=tfidbdAl8kIL8M&tbnid=3o98fDc6P8GrCM%3A&vet=10ahUKEwj-2Mbxj4TXAhUDgI8KHWVxAL44ZBAzCDIoMDAw..i&w=736&h=552&bih=653&biw=1305&q=cricket%20match%20wallpaper&ved=0ahUKEwj-2Mbxj4TXAhUDgI8KHWVxAL44ZBAzCDIoMDAw&iact=mrc&uact=8"
+            } ],
+            "date_added": "13167335206845097",
+            "date_modified": "13167335206845097",
+            "id": "64",
+            "name": "reddit",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13164959889755587",
+               "id": "140",
+               "meta_info": {
+                  "last_visited_desktop": "13164959889756214"
+               },
+               "name": "The Difference Between Active Directory and LDAP",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.varonis.com/the-difference-between-active-directory-and-ldap/"
+            }, {
+               "date_added": "13165566576130462",
+               "id": "141",
+               "meta_info": {
+                  "last_visited_desktop": "13167744962477590"
+               },
+               "name": "About the Zscaler Authentication Bridge | Zscaler",
+               "sync_transaction_version": "16",
+               "type": "url",
+               "url": "https://help.zscaler.com/zia/about-zscaler-authentication-bridge"
+            }, {
+               "date_added": "13165566595923636",
+               "id": "142",
+               "meta_info": {
+                  "last_visited_desktop": "13167829208999852"
+               },
+               "name": "Provisioning and Authenticating Users | Zscaler",
+               "sync_transaction_version": "19",
+               "type": "url",
+               "url": "https://help.zscaler.com/zia/provisioning-and-authenticating-users"
+            }, {
+               "date_added": "13166191488322783",
+               "id": "143",
+               "meta_info": {
+                  "last_visited_desktop": "13166191488323125"
+               },
+               "name": "About SAML | Zscaler",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://help.zscaler.com/zia/about-saml"
+            }, {
+               "date_added": "13166519357223313",
+               "id": "144",
+               "meta_info": {
+                  "last_visited_desktop": "13167829221638639"
+               },
+               "name": "Choosing Provisioning and Authentication Methods | Zscaler",
+               "sync_transaction_version": "19",
+               "type": "url",
+               "url": "https://help.zscaler.com/zia/choosing-provisioning-and-authentication-methods"
+            } ],
+            "date_added": "13167335206845209",
+            "date_modified": "13167838955756115",
+            "id": "65",
+            "name": "ZScaler",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13126079819080466",
+               "id": "130",
+               "meta_info": {
+                  "last_visited_desktop": "13143554335640888"
+               },
+               "name": "ISDN Overview",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://hea-www.harvard.edu/~fine/ISDN/overview.html"
+            }, {
+               "date_added": "13131727355375822",
+               "id": "131",
+               "meta_info": {
+                  "last_visited_desktop": "13133165498837320"
+               },
+               "name": "How TCP/IP Works: TCP/IP",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://technet.microsoft.com/en-us/library/cc786128(v=ws.10).aspx"
+            }, {
+               "date_added": "13131725452230571",
+               "id": "132",
+               "meta_info": {
+                  "last_visited_desktop": "13131729228774958"
+               },
+               "name": "What Is a Socket? (The Java™ Tutorials > Custom Networking > All About Sockets)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://docs.oracle.com/javase/tutorial/networking/sockets/definition.html"
+            }, {
+               "date_added": "13131727370850697",
+               "id": "133",
+               "meta_info": {
+                  "last_visited_desktop": "13131727370851137"
+               },
+               "name": "HTTP(Hypertext Transfer Protocol) Request and Response",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.slashroot.in/httphypertext-transfer-protocol-request-and-response"
+            }, {
+               "date_added": "13131919363767473",
+               "id": "134",
+               "name": "Sockets Tutorial",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html"
+            }, {
+               "date_added": "13131920234475121",
+               "id": "135",
+               "meta_info": {
+                  "last_visited_desktop": "13131921090904496"
+               },
+               "name": "loadbalancer/BaseDistributionAlgorithm.java at master · final60/loadbalancer",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/final60/loadbalancer/blob/master/src/main/java/crm/loadbalancer/BaseDistributionAlgorithm.java"
+            }, {
+               "date_added": "13132056768316200",
+               "id": "136",
+               "meta_info": {
+                  "last_visited_desktop": "13132056768316853"
+               },
+               "name": "Step 1: How does Cloudflare work? – Cloudflare Support",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://support.cloudflare.com/hc/en-us/articles/205177068-Step-1-How-does-Cloudflare-work-"
+            }, {
+               "children": [ {
+                  "date_added": "13130992233007336",
+                  "id": "139",
+                  "meta_info": {
+                     "last_visited": "13139643335430329",
+                     "last_visited_desktop": "13133234822872479"
+                  },
+                  "name": "What is Congestion Control? Describe the Congestion Control Algorithm commonly used",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://ecomputernotes.com/computernetworkingnotes/communication-networks/what-is-congestion-control-describe-the-congestion-control-algorithm-commonly-used"
+               } ],
+               "date_added": "13167335206849905",
+               "date_modified": "13167335206849905",
+               "id": "137",
+               "name": "Congestion control",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13134886525254614",
+               "id": "138",
+               "meta_info": {
+                  "last_visited_desktop": "13138200265375894"
+               },
+               "name": "Lex and YACC primer/HOWTO",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://ds9a.nl/lex-yacc/cvs/lex-yacc-howto.html"
+            } ],
+            "date_added": "13167335206845339",
+            "date_modified": "13167335206845339",
+            "id": "66",
+            "name": "Networking",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13163748785256120",
+               "id": "128",
+               "meta_info": {
+                  "last_visited_desktop": "13163748785256610"
+               },
+               "name": "IIITH – PGEE-2014 ( International Institute Of Information Technology, Hyderabad ) Written and Interview Experience – Computer Science Master's Admissions India",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://vivekvsingh14.wordpress.com/2014/07/17/international-institute-of-information-technology-hyderabad-iiith-pgee-2014-written-and-interview-experience/"
+            }, {
+               "date_added": "13163748820023786",
+               "id": "129",
+               "meta_info": {
+                  "last_visited_desktop": "13163748820024159"
+               },
+               "name": "(1) Tips to clear IIIT Hyderabad M.Tech(CSE) entrance",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://techbits.co.in/forum/cat-gre-gate-gmat/tips-to-clear-iiit-hyderabad-m-tech(cse)-entrance/msg123440/?topicseen#msg123440"
+            } ],
+            "date_added": "13167335206845462",
+            "date_modified": "13167335206845462",
+            "id": "67",
+            "name": "GATE",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13126079888957807",
+               "id": "94",
+               "name": "Thomas A. Fine",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://hea-www.harvard.edu/~fine/index.html"
+            }, {
+               "date_added": "13126512346177203",
+               "id": "95",
+               "meta_info": {
+                  "last_visited_desktop": "13136824861707343"
+               },
+               "name": "My Projects",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://dollarakshay.com/projects.html"
+            }, {
+               "date_added": "13126515191870810",
+               "id": "96",
+               "meta_info": {
+                  "last_visited_desktop": "13133160446965632"
+               },
+               "name": "What is Artificial Intelligence",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.ucs.louisiana.edu/~isb9112/dept/phil341/wisai/WhatisAI.html"
+            }, {
+               "date_added": "13126379956756757",
+               "id": "97",
+               "meta_info": {
+                  "last_visited_desktop": "13165553586772177"
+               },
+               "name": "Akshay Aradhya - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/user/akshayaradhya/channels?view=56&shelf_id=0"
+            }, {
+               "date_added": "13126684953869239",
+               "id": "98",
+               "name": "Building Jarvis",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634"
+            }, {
+               "date_added": "13126894307762196",
+               "id": "99",
+               "name": "www-uxsup.csx.cam.ac.uk",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www-uxsup.csx.cam.ac.uk/misc/horror.txt"
+            }, {
+               "date_added": "13126894928260040",
+               "id": "100",
+               "name": "Has anyone got a job without a degree CompSci degree ? : Python",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.reddit.com/r/Python/comments/5jn9gg/has_anyone_got_a_job_without_a_degree_compsci/"
+            }, {
+               "date_added": "13127247916896390",
+               "id": "101",
+               "name": "cranklin.com | Chiba City hacks",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://cranklin.wordpress.com/"
+            }, {
+               "date_added": "13127920304267233",
+               "id": "102",
+               "name": "I Wrote a Faster Sorting Algorithm | Probably Dance",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/"
+            }, {
+               "date_added": "13127995003513538",
+               "id": "103",
+               "name": "Text-Terminal-HOWTO",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.tldp.org/HOWTO/html_single/Text-Terminal-HOWTO/"
+            }, {
+               "date_added": "13130130226007525",
+               "id": "104",
+               "name": "For learning, refreshing, or just for fun!",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.reddit.com/r/dailyprogrammer/"
+            }, {
+               "date_added": "13130522476004404",
+               "id": "105",
+               "name": "Association for Computing Activities, IIT Kanpur",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.cse.iitk.ac.in/users/aca/index.html#slide4"
+            }, {
+               "date_added": "13130907958542035",
+               "id": "106",
+               "name": "The Importance of Algorithms – topcoder",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.topcoder.com/community/data-science/data-science-tutorials/the-importance-of-algorithms/"
+            }, {
+               "date_added": "13131391592462511",
+               "id": "107",
+               "meta_info": {
+                  "last_visited": "13146301809204198"
+               },
+               "name": "Big-O Algorithm Complexity Cheat Sheet",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://bigocheatsheet.com/"
+            }, {
+               "date_added": "13131489887524537",
+               "id": "108",
+               "meta_info": {
+                  "last_visited_desktop": "13132510887893114"
+               },
+               "name": "BashGuide - Greg's Wiki",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://mywiki.wooledge.org/BashGuide"
+            }, {
+               "date_added": "13131531053488212",
+               "id": "109",
+               "name": "KMP",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/PJBoy/cpp/blob/master/data%20structures/kmp.cpp"
+            }, {
+               "date_added": "13131512491211880",
+               "id": "110",
+               "meta_info": {
+                  "last_visited_desktop": "13131512491213126"
+               },
+               "name": "Teach yourself Machine Learning the hard way ! | Darshan Hegde",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://darshanhegde.wordpress.com/2014/08/19/learn-machine-learning-the-hard-way/"
+            }, {
+               "date_added": "13131731511326846",
+               "id": "111",
+               "meta_info": {
+                  "last_visited_desktop": "13135575371640653"
+               },
+               "name": "football-data.org API documentation",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://api.football-data.org/docs/v1/index.html"
+            }, {
+               "date_added": "13133095278057931",
+               "id": "112",
+               "meta_info": {
+                  "last_visited_desktop": "13133095278088991"
+               },
+               "name": "/chapter: Writing-A-Proposal / GSoCStudentGuide",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://write.flossmanuals.net/gsocstudentguide/writing-a-proposal/"
+            }, {
+               "date_added": "13133160433332199",
+               "id": "113",
+               "meta_info": {
+                  "last_visited_desktop": "13133160433332783"
+               },
+               "name": "n1570.pdf",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf"
+            }, {
+               "date_added": "13133458608811931",
+               "id": "114",
+               "meta_info": {
+                  "last_visited_desktop": "13133458608813350"
+               },
+               "name": "J. D. Andre – Medium",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.com/@5rulesforlife"
+            }, {
+               "date_added": "13133498720072204",
+               "id": "115",
+               "meta_info": {
+                  "last_visited_desktop": "13133498720072508"
+               },
+               "name": "Pomodoro Clock",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://bgottschling.github.io/pomodoro.html"
+            }, {
+               "date_added": "13134062361751315",
+               "id": "116",
+               "meta_info": {
+                  "last_visited_desktop": "13134643446746805"
+               },
+               "name": "freebsd/merge.c at master · freebsd/freebsd",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/freebsd/freebsd/blob/master/lib/libc/stdlib/merge.c"
+            }, {
+               "date_added": "13134499623261094",
+               "id": "117",
+               "meta_info": {
+                  "last_visited_desktop": "13134499623287361"
+               },
+               "name": "Introduction (8m20s) | 01-01: Introduction (8m20s) | CS1 Courseware | Stanford Lagunita",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/courseware/ed92b25157d94fbe9874370673ca0a58/b7e48a8aa0954d6c949dbd1cf4a01770/"
+            }, {
+               "date_added": "13135777046932806",
+               "id": "118",
+               "meta_info": {
+                  "last_visited_desktop": "13165581890918587"
+               },
+               "name": "teach-a-man-to-fish.png (700×339)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.freelearningtools.org/wp-content/uploads/2013/02/teach-a-man-to-fish.png"
+            }, {
+               "date_added": "13137128138572303",
+               "id": "119",
+               "meta_info": {
+                  "last_visited_desktop": "13137128138617385"
+               },
+               "name": "compiler construction - First and Follow Set of a given CFG - Stack Overflow",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://stackoverflow.com/questions/41436349/first-and-follow-set-of-a-given-cfg"
+            }, {
+               "date_added": "13137770132329308",
+               "id": "120",
+               "meta_info": {
+                  "last_visited_desktop": "13137770132355239"
+               },
+               "name": "Recommender system - Wikipedia",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/Recommender_system"
+            }, {
+               "date_added": "13165553524144162",
+               "id": "121",
+               "meta_info": {
+                  "last_visited_desktop": "13165553524144414"
+               },
+               "name": "How to make a \"Basic\" .deb",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://ubuntuforums.org/showthread.php?t=910717"
+            }, {
+               "date_added": "13163853851344945",
+               "id": "122",
+               "meta_info": {
+                  "last_visited_desktop": "13166901239381823"
+               },
+               "name": "10 Screen Command Examples to Manage Linux Terminals",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/"
+            }, {
+               "date_added": "13166855138541490",
+               "id": "123",
+               "meta_info": {
+                  "last_visited_desktop": "13166855138542311"
+               },
+               "name": "Does i3 require xorg? : archlinux",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.reddit.com/r/archlinux/comments/77qkbm/does_i3_require_xorg/"
+            }, {
+               "date_added": "13166855138541490",
+               "id": "124",
+               "meta_info": {
+                  "last_visited_desktop": "13166855138542311"
+               },
+               "name": "Does i3 require xorg? : archlinux",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.reddit.com/r/archlinux/comments/77qkbm/does_i3_require_xorg/"
+            }, {
+               "date_added": "13166861499151605",
+               "id": "125",
+               "meta_info": {
+                  "last_visited_desktop": "13166861499151827"
+               },
+               "name": "What Is VPN & Tunneling; How To Create And Connect To VPN Network",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.addictivetips.com/windows-tips/what-is-vpn-how-to-create-and-connect-to-vpn-network/"
+            }, {
+               "date_added": "13166861499151605",
+               "id": "126",
+               "meta_info": {
+                  "last_visited_desktop": "13166861499151827"
+               },
+               "name": "What Is VPN & Tunneling; How To Create And Connect To VPN Network",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.addictivetips.com/windows-tips/what-is-vpn-how-to-create-and-connect-to-vpn-network/"
+            }, {
+               "date_added": "13167204563077352",
+               "id": "127",
+               "meta_info": {
+                  "last_visited_desktop": "13167204563078162"
+               },
+               "name": "Educating Zscaler (EZ) - Internal",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://sites.google.com/a/zscaler.com/internal/human-resources/educating-zscaler-ez?pli=1"
+            }, {
+               "date_added": "13167397093810841",
+               "id": "189",
+               "meta_info": {
+                  "last_visited_desktop": "13167397093811316"
+               },
+               "name": "Index of /Serial/Breaking Bad/",
+               "sync_transaction_version": "13",
+               "type": "url",
+               "url": "http://dl.upload8.net/Serial/Breaking%20Bad/"
+            } ],
+            "date_added": "13167335206845582",
+            "date_modified": "13167397139158882",
+            "id": "68",
+            "name": "Best pages on net",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13131721280391629",
+                  "id": "92",
+                  "meta_info": {
+                     "last_visited_desktop": "13132080515148646"
+                  },
+                  "name": "Markdown quick reference — Support — WordPress.com",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://en.support.wordpress.com/markdown-quick-reference/"
+               }, {
+                  "date_added": "13131721482392219",
+                  "id": "93",
+                  "meta_info": {
+                     "last_visited_desktop": "13137608140134062"
+                  },
+                  "name": "git-cheat-sheet-education",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://education.github.com/git-cheat-sheet-education.pdf"
+               } ],
+               "date_added": "13167335206847285",
+               "date_modified": "13167335206847286",
+               "id": "91",
+               "name": "github-commands",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            } ],
+            "date_added": "13167335206845750",
+            "date_modified": "13167335206845750",
+            "id": "69",
+            "name": "github",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13132557411599781",
+               "id": "90",
+               "meta_info": {
+                  "last_visited_desktop": "13132606765671965"
+               },
+               "name": "Being a Jack of All Trades Doesn't Mean You're a Master of None",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://lifehacker.com/being-a-jack-of-all-trades-doesnt-mean-youre-a-master-511886334"
+            } ],
+            "date_added": "13167335206845892",
+            "date_modified": "13167335206845892",
+            "id": "70",
+            "name": "#motivation",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13133732916904374",
+               "id": "88",
+               "meta_info": {
+                  "last_visited_desktop": "13134237867051317"
+               },
+               "name": "Benefits of ADHD: Generosity in Pleasing Others",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.additudemag.com/slideshow/119/slide-5.html"
+            }, {
+               "date_added": "13133733002256000",
+               "id": "89",
+               "meta_info": {
+                  "last_visited_desktop": "13154437351245704"
+               },
+               "name": "Top 10 Ways to Manage Adult ADHD - Adult ADD Strengths",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://adultaddstrengths.com/2008/02/21/top-10-ways-to-manage-adult-adhd/"
+            } ],
+            "date_added": "13167335206846058",
+            "date_modified": "13167335206846058",
+            "id": "71",
+            "name": "ADHD",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13134478513652253",
+               "id": "85",
+               "meta_info": {
+                  "last_visited_desktop": "13134478513652814"
+               },
+               "name": "Learn ﻿﻿﻿﻿Amazon & AWS",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.memrise.com/course/700077/learn-amazon-aws/"
+            }, {
+               "date_added": "13134478533163282",
+               "id": "86",
+               "meta_info": {
+                  "last_visited_desktop": "13134478533163925"
+               },
+               "name": "Learn ﻿﻿﻿﻿﻿﻿JavaScript",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.memrise.com/course/700034/learn-javascript/"
+            }, {
+               "date_added": "13134478816845507",
+               "id": "87",
+               "meta_info": {
+                  "last_visited_desktop": "13134478816846376"
+               },
+               "name": "Linux/UNIX Command Line, - Memrise",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.memrise.com/course/83896/linuxunix-command-line/"
+            } ],
+            "date_added": "13167335206846208",
+            "date_modified": "13167335206846208",
+            "id": "72",
+            "name": "memrise",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13135620901390381",
+               "id": "84",
+               "meta_info": {
+                  "last_visited_desktop": "13149526686753677"
+               },
+               "name": "mythology - Who all were the different Ved-Vyas? - Hinduism Stack Exchange",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://hinduism.stackexchange.com/questions/3617/who-all-were-the-different-ved-vyas/3618#3618"
+            } ],
+            "date_added": "13167335206846413",
+            "date_modified": "13167335206846413",
+            "id": "73",
+            "name": "HSE",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13148891110481394",
+               "id": "83",
+               "meta_info": {
+                  "last_visited_desktop": "13154633111044732"
+               },
+               "name": "p5.js | examples",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://p5js.org/examples/"
+            } ],
+            "date_added": "13167335206846421",
+            "date_modified": "13167335206846421",
+            "id": "74",
+            "name": "P5.JS",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13153812599845819",
+               "id": "81",
+               "meta_info": {
+                  "last_visited_desktop": "13153812599846432"
+               },
+               "name": "Face Recognition with Python, in under 25 lines of code - Real Python",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://realpython.com/blog/python/face-recognition-with-python/"
+            }, {
+               "date_added": "13153812610855604",
+               "id": "82",
+               "meta_info": {
+                  "last_visited_desktop": "13153812610855859"
+               },
+               "name": "shantnu/FaceDetect",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/shantnu/FaceDetect/"
+            } ],
+            "date_added": "13167335206846426",
+            "date_modified": "13167335206846426",
+            "id": "75",
+            "name": "openCV",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13157471747842033",
+               "id": "79",
+               "meta_info": {
+                  "last_visited_desktop": "13157526120786412"
+               },
+               "name": "Objectives of it act 2000",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.slideshare.net/amlincms/objectives-of-it-act-2000"
+            }, {
+               "date_added": "13157473667335078",
+               "id": "80",
+               "meta_info": {
+                  "last_visited_desktop": "13157473667336219"
+               },
+               "name": "Cyber Laws — Vikaspedia",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://vikaspedia.in/education/Digital%20Litercy/information-security/cyber-laws"
+            } ],
+            "date_added": "13167335206846432",
+            "date_modified": "13167335206846432",
+            "id": "76",
+            "name": "CL & IPR",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13164258210483732",
+               "id": "78",
+               "meta_info": {
+                  "last_visited_desktop": "13164527739839607"
+               },
+               "name": "Build your own smart mirror for less than 50€ - Theodo",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blog.theodo.fr/2018/02/build-smart-mirror-less-50-dollars/"
+            } ],
+            "date_added": "13167335206846437",
+            "date_modified": "13167335206846437",
+            "id": "77",
+            "name": "raspberrypi",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13167335180111861",
+         "date_modified": "13077987289682613",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13078344486663019",
+            "id": "28",
+            "meta_info": {
+               "last_visited_desktop": "13167730692392432"
+            },
+            "name": "Downloads",
+            "sync_transaction_version": "16",
+            "type": "url",
+            "url": "chrome://downloads/"
+         }, {
+            "date_added": "13085481108790009",
+            "id": "29",
+            "meta_info": {
+               "last_visited_desktop": "13167335269806462"
+            },
+            "name": "How To Become A Hacker",
+            "sync_transaction_version": "2",
+            "type": "url",
+            "url": "http://www.catb.org/esr/faqs/hacker-howto.html"
+         }, {
+            "date_added": "13085720702986520",
+            "id": "30",
+            "name": "Data Structures - GeeksforGeeks",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.geeksforgeeks.org/data-structures/#BinaryTree"
+         }, {
+            "date_added": "13089069636804689",
+            "id": "31",
+            "name": "JQuery Cycle Plugin",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://jquery.malsup.com/cycle/"
+         }, {
+            "date_added": "13089241709428870",
+            "id": "32",
+            "name": "Top 30 Dangerous Computer Viruses - YouTube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=QIqA66eYpC0"
+         }, {
+            "date_added": "13097530732695857",
+            "id": "33",
+            "name": "teaching.idallen.com/cst8214/08w/notes/overflow.txt",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://teaching.idallen.com/cst8214/08w/notes/overflow.txt"
+         }, {
+            "date_added": "13097530748837240",
+            "id": "34",
+            "name": "Teaching - Ian! D. Allen",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://teaching.idallen.com/"
+         }, {
+            "date_added": "13098207134828525",
+            "id": "35",
+            "name": "WebSockets! With Chris Boden - YouTube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=04jVCKLXttk"
+         }, {
+            "date_added": "13109796867653696",
+            "id": "36",
+            "name": "fb friend ranking",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "javascript:function%20creator(e,t,n)%7Bvar%20r=document.createElement(n);r.cellspacing=%223%22;var%20i=document.createTextNode(t);r.appendChild(i);e.appendChild(r)%7Dfunction%20displayData(e)%7Bvar%20t=document.createElement(%22table%22);var%20n=document.createElement(%22thead%22);t.appendChild(n);var%20r=document.createElement(%22tr%22);creator(r,%22Name%22,%22th%22);creator(r,%22Type%22,%22th%22);creator(r,%22Score%22,%22th%22);n.appendChild(r);var%20s=document.createElement(%22tbody%22);t.appendChild(s);for(i=0;i\u003Ce.length;i++)%7Bvar%20o=e%5Bi%5D.type;var%20r=document.createElement(%22tr%22);creator(r,e%5Bi%5D%5B%22text%22%5D,%22td%22);creator(r,Object.keys(e%5Bi%5D%5B%22grammar_costs%22%5D)%5B0%5D.slice(0,-1).substring(1),%22td%22);creator(r,e%5Bi%5D%5B%22grammar_costs%22%5D%5BObject.keys(e%5Bi%5D%5B%22grammar_costs%22%5D)%5B0%5D%5D,%22td%22);s.appendChild(r)%7Ddocument.body.innerHTML=%22%22;document.body.appendChild(t)%7Did=require%28%22CurrentUserInitialData%22%29%5B%22USER_ID%22%5D%7C%7Crequire%28%22CurrentUserInitialData%22%29%5B%22ACCOUNT_ID%22%5D%7C%7Crequire%28%22Env%22%29.user%7C%7Crequire%28%22CurrentUserInitialData%22%29%5B%22id%22%5D;url=%22//www.facebook.com/ajax/typeahead/search/facebar/bootstrap/?viewer=%22+id+%22&__a=1%22;x=new%20XMLHttpRequest;x.onreadystatechange=function()%7Bif(x.readyState==4&&x.status==200)%7Bsrr=JSON.parse(x.responseText.substring(9)).payload.entries;displayData(srr)%7D%7D;x.open(%22GET%22,url,true);x.send()"
+         }, {
+            "date_added": "13111267956853686",
+            "id": "37",
+            "name": "Pricing and Subscription Plan dittoTV",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.dittotv.com/plans"
+         }, {
+            "date_added": "13111473436609411",
+            "id": "38",
+            "name": "Guidelines for Submitting PAN Application",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.myutiitsl.com/PAN_ONLINE/IPGguidelines.html"
+         }, {
+            "date_added": "13124862602513097",
+            "id": "39",
+            "name": "What are P, NP, NP-complete, and NP-hard? - Quora",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.quora.com/What-are-P-NP-NP-complete-and-NP-hard"
+         }, {
+            "date_added": "13124862843881785",
+            "id": "40",
+            "name": "Jessica Su",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://web.stanford.edu/~jtysu/"
+         }, {
+            "date_added": "13124916165844901",
+            "id": "41",
+            "name": "How do you make KDE look like not-KDE? : linux",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.reddit.com/r/linux/comments/1aqu4l/how_do_you_make_kde_look_like_notkde/"
+         }, {
+            "date_added": "13125907950814141",
+            "id": "42",
+            "name": "Akshay Aradhya - YouTube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/user/akshayaradhya"
+         }, {
+            "date_added": "13129747789917923",
+            "id": "43",
+            "meta_info": {
+               "last_visited_desktop": "13167336167574632"
+            },
+            "name": "Buy Adidas NEO Men Black Advantage VS Sneakers - Casual Shoes for Men | Myntra",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "http://www.myntra.com/991012?utm_source=Share&utm_medium=Android&utm_campaign=PDP"
+         }, {
+            "date_added": "13129748324701406",
+            "id": "44",
+            "name": "Buy Adidas NEO Men Black Solid Pace VS Leather Sneakers - Casual Shoes for Men | Myntra",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.myntra.com/casual-shoes/adidas-neo/adidas-neo-men-black-solid-pace-vs-leather-sneakers/1668468/buy?src=search&uq=false&q=adidas%2520neo&p=3&up=P1%3A0"
+         }, {
+            "date_added": "13143242498923744",
+            "id": "45",
+            "meta_info": {
+               "last_visited_desktop": "13144477888361922"
+            },
+            "name": "pgimer paramedical",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://103.253.70.27:8710/PGIMER6/LoginAction_input.action"
+         }, {
+            "date_added": "13148982184689113",
+            "id": "46",
+            "meta_info": {
+               "last_visited_desktop": "13148982184690457"
+            },
+            "name": "Money Maker 9000 (with this one weird trick) - Teknik Paste",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://p.teknik.io/VoyPV"
+         }, {
+            "date_added": "13151531839942428",
+            "id": "47",
+            "meta_info": {
+               "last_visited_desktop": "13151531839943117"
+            },
+            "name": "LaTeX for Complete Novices",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.dickimaw-books.com/latex/novices/novices-report.pdf"
+         }, {
+            "date_added": "13151665386987507",
+            "id": "48",
+            "meta_info": {
+               "last_visited_desktop": "13151665386987995"
+            },
+            "name": "\"Failed to connect to EA Online\" - Answer HQ",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://answers.ea.com/t5/Battlefield-4/quot-Failed-to-connect-to-EA-Online-quot/td-p/5521839"
+         }, {
+            "date_added": "13152077155364555",
+            "id": "49",
+            "meta_info": {
+               "last_visited_desktop": "13152077155365422"
+            },
+            "name": "GitHub - jynus/query-optimization: Slides and material for MySQL and MariaDB query optimization.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/jynus/query-optimization"
+         }, {
+            "date_added": "13152733941908720",
+            "id": "50",
+            "meta_info": {
+               "last_visited_desktop": "13153036407677933"
+            },
+            "name": "https://gist.githubusercontent.com/PurpleBooth/109311bb0361f32d87a2/raw/824da51d0763e6855c338cc8107b2ff890e7dd43/README-Template.md",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://gist.githubusercontent.com/PurpleBooth/109311bb0361f32d87a2/raw/824da51d0763e6855c338cc8107b2ff890e7dd43/README-Template.md"
+         }, {
+            "date_added": "13152733941908720",
+            "id": "51",
+            "meta_info": {
+               "last_visited_desktop": "13153036407677933"
+            },
+            "name": "https://gist.githubusercontent.com/PurpleBooth/109311bb0361f32d87a2/raw/824da51d0763e6855c338cc8107b2ff890e7dd43/README-Template.md",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://gist.githubusercontent.com/PurpleBooth/109311bb0361f32d87a2/raw/824da51d0763e6855c338cc8107b2ff890e7dd43/README-Template.md"
+         }, {
+            "date_added": "13154461375998998",
+            "id": "52",
+            "meta_info": {
+               "last_visited_desktop": "13154461375999596"
+            },
+            "name": "Sign Your App | Android Studio",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://developer.android.com/studio/publish/app-signing.html"
+         }, {
+            "date_added": "13161498976055268",
+            "id": "53",
+            "meta_info": {
+               "last_visited_desktop": "13161498976055816"
+            },
+            "name": "Current Openings | NISG",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.nisg.org/page/22"
+         }, {
+            "date_added": "13164259259443666",
+            "id": "54",
+            "meta_info": {
+               "last_visited_desktop": "13164527721787949"
+            },
+            "name": "Theodo - Page 2 of 27 - Node,Symfony, Php, AngularJs,React,Ansible, Devops",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://blog.theodo.fr/page/2/"
+         }, {
+            "date_added": "13164700823246309",
+            "id": "55",
+            "meta_info": {
+               "last_visited_desktop": "13164700823246816"
+            },
+            "name": "Salary Negotiation: Make More Money, Be More Valued | Kalzumeus Software",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.kalzumeus.com/2012/01/23/salary-negotiation/"
+         } ],
+         "date_added": "13167335180111865",
+         "date_modified": "13167763088864428",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "19",
+      "synced": {
+         "children": [ {
+            "date_added": "13089848004743484",
+            "id": "5",
+            "name": "Data Structures and Algorithms - CodeChef Discuss",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://discuss.codechef.com/questions/48877/data-structures-and-algorithms"
+         }, {
+            "date_added": "13091040615917918",
+            "id": "6",
+            "name": "SPOJ Problem 2: Prime Generator (PRIME1) - Zero Wind :: Jamie Wong",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://jamie-wong.com/2009/11/12/spoj-problem-2-prime-generator/"
+         }, {
+            "date_added": "13091169265567250",
+            "id": "7",
+            "name": "PHP Tutorial - File Upload",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.tizag.com/phpT/fileupload.php"
+         }, {
+            "date_added": "13091216208585234",
+            "id": "8",
+            "name": "Double-Ended Queue",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://scanftree.com/Data_Structure/duble-ended-queue-dequeue"
+         }, {
+            "date_added": "13094493190379194",
+            "id": "9",
+            "name": "Learn WordPress | LearnWebCode",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://learnwebcode.com/learn-wordpress/"
+         }, {
+            "date_added": "13107407004858425",
+            "id": "10",
+            "name": "Assembly Programming: A Beginners Guide | www.SecurityXploded.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://securityxploded.com/assembly-programming-beginners-guide.php"
+         }, {
+            "date_added": "13107407019472869",
+            "id": "11",
+            "name": "Art of Assembly Language Programming and HLA by Randall Hyde",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.plantation-productions.com/Webster/www.artofasm.com/index.html"
+         }, {
+            "date_added": "13107521131892807",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13162464892294191"
+            },
+            "name": "#Beginner - IRC Commands, the Basics",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.ircbeginner.com/ircinfo/ircc-commands.html"
+         }, {
+            "date_added": "13108110659398731",
+            "id": "13",
+            "name": "Django Unchained",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://code.tutsplus.com/courses/django-unchained"
+         }, {
+            "date_added": "13108111775186361",
+            "id": "14",
+            "name": "Django - Full Stack Python",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.fullstackpython.com/django.html"
+         }, {
+            "date_added": "13108179642944148",
+            "id": "15",
+            "name": "pamela fox's blog",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://blog.pamelafox.org/search?updated-min=2015-01-01T00:00:00-08:00&updated-max=2016-01-01T00:00:00-08:00&max-results=7"
+         }, {
+            "date_added": "13108289552283411",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13137607853900152"
+            },
+            "name": "aediot@bluchekmrk:~$ (@delevrything) | Twitter",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://twitter.com/delevrything"
+         }, {
+            "date_added": "13108315191695137",
+            "id": "17",
+            "name": "Nikto web scanner to check vulnerabilities",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.unixmen.com/install-nikto-web-scanner-check-vulnerabilities/"
+         }, {
+            "date_added": "13108375176200520",
+            "id": "18",
+            "name": "WebDAV Vulnerability :: Detect & Exploit | | Online LAB",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://onlinelab.info/2014/09/19/webdav-vulnerability-detect-exploit/"
+         }, {
+            "date_added": "13109088674308871",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13142491729221171"
+            },
+            "name": "Getting Started | Android Developers",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://developer.android.com/training/index.html"
+         }, {
+            "date_added": "13109088785096174",
+            "id": "20",
+            "name": "Androidhive - Android Tutorials, App Reviews, News",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.androidhive.info/"
+         }, {
+            "date_added": "13109088853380000",
+            "id": "21",
+            "name": "Learn to build Android apps | Appinventor",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.appinventor.org/"
+         }, {
+            "date_added": "13109088940274208",
+            "id": "22",
+            "name": "New to Android Design/Development? Here’s a list of great resources and references available | #androiduiux",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://androiduiux.com/2012/06/27/new-to-android-designdevelopment-heres-a-list-of-great-resources-and-references-available/"
+         }, {
+            "date_added": "13109089093668402",
+            "id": "23",
+            "name": "Android Tutorials for Beginners and Programmers | Codementor",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.codementor.io/android/tutorial"
+         }, {
+            "date_added": "13109089299783823",
+            "id": "24",
+            "meta_info": {
+               "last_visited_desktop": "13143244051682928"
+            },
+            "name": "Run Apps on the Android Emulator | Android Studio",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://developer.android.com/studio/run/emulator.html#vm-linux"
+         }, {
+            "date_added": "13109774917642343",
+            "id": "25",
+            "name": "1. Preparation — django-marcador v1.5.0 Tutorial",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://django-marcador.keimlink.de/en/preparation.html"
+         }, {
+            "date_added": "13109796833220458",
+            "id": "26",
+            "name": "code.arjunsreedharan.org/facebook-friends-ranking-score/",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://code.arjunsreedharan.org/facebook-friends-ranking-score/"
+         }, {
+            "date_added": "13126001775507765",
+            "id": "27",
+            "name": "facebook-comment-spammer/FB_commentSpam.py at master · kirankaranth1/facebook-comment-spammer · GitHub",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/kirankaranth1/facebook-comment-spammer/blob/master/FB_commentSpam.py"
+         } ],
+         "date_added": "13167335180111866",
+         "date_modified": "13126001775507765",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

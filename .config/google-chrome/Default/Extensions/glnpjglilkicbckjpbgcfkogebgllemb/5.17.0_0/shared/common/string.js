@@ -1,0 +1,1 @@
+var StringUtil=function(){return{format:function(n,r){return n.replace(/\{(\d+)\}/g,function(n,t){return typeof r[t]!="undefined"?r[t]:n})},hashCode:function(n){if(typeof n!="string")return"not string";var r=0;if(n.length===0)return r;for(i=0;i<n.length;i++){r=(r<<5)-r+n.charCodeAt(i);r=r&r}return r}}}();

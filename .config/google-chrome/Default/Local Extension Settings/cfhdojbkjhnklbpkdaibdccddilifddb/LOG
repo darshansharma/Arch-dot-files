@@ -1,0 +1,22 @@
+2018/04/12-08:43:42.885 557 Reusing MANIFEST /home/darshan/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2018/04/12-08:43:42.885 557 Recovering log #734
+2018/04/12-08:43:42.923 557 Level-0 table #737: started
+2018/04/12-08:43:42.989 557 Level-0 table #737: 3270597 bytes OK
+2018/04/12-08:43:42.995 557 Delete type=0 #734
+2018/04/12-08:44:43.588 970 Level-0 table #740: started
+2018/04/12-08:44:43.626 970 Level-0 table #740: 3270350 bytes OK
+2018/04/12-08:44:43.630 970 Delete type=0 #738
+2018/04/12-08:46:39.530 970 Level-0 table #742: started
+2018/04/12-08:46:39.574 970 Level-0 table #742: 3270589 bytes OK
+2018/04/12-08:46:39.577 970 Delete type=0 #739
+2018/04/12-08:46:39.578 970 Compacting 4@0 + 2@1 files
+2018/04/12-08:46:39.641 970 Generated table #743@0: 1 keys, 3270350 bytes
+2018/04/12-08:46:39.644 970 Generated table #744@0: 2 keys, 336 bytes
+2018/04/12-08:46:39.644 970 Compacted 4@0 + 2@1 files => 3270686 bytes
+2018/04/12-08:46:39.651 970 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/04/12-08:46:39.651 970 Delete type=2 #735
+2018/04/12-08:46:39.651 970 Delete type=2 #732
+2018/04/12-08:46:39.651 970 Delete type=2 #740
+2018/04/12-08:46:39.652 970 Delete type=2 #733
+2018/04/12-08:46:39.652 970 Delete type=2 #742
+2018/04/12-08:46:39.652 970 Delete type=2 #737

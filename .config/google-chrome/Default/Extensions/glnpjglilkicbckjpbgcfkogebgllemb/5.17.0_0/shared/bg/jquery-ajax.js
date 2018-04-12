@@ -1,0 +1,1 @@
+Okta.jqueryAjax=function(r){var e=Okta.Q,n=JSON.parse,t=e.reject;return function(u){return e(r(u)).fail(function(r){return t(n(r.responseText))})}};
