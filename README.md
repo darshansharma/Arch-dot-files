@@ -6,5 +6,7 @@ desktop-server: Xorg
 wm: i3  
 bar: i3status   
 program-launcher: rofi  
-terminal: urxvt  
+terminal: termite  
+
+![](images/darshan-desktop.png?raw=true)
 
